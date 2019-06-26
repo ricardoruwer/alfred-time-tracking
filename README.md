@@ -18,3 +18,7 @@ For example:
 tt 9:30 18:45 1:15
 # => 8:00
 ```
+
+## Credits
+
+🤴 [@peagha](https://github.com/peagha)
